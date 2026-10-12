@@ -407,4 +407,4 @@ run.
 
 ## License
 
-CC BY-NC 4.0. See [LICENSE](LICENSE).
+MIT. See [LICENSE](LICENSE).
